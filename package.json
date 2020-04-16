@@ -1,0 +1,19 @@
+{
+  "name": "emilia-syntax",
+  "theme": "syntax",
+  "author": "Arturo Alviar <yo@arturoalviar.com>",
+  "version": "0.0.0",
+  "description": "I love Emilia",
+  "keywords": [
+    "anime",
+    "re:zero",
+    "emilia",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/arturoalviar/emilia-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
