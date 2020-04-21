@@ -8,7 +8,7 @@ This theme is mainly optimized for JS but looks great (in my opinion) with other
 On your console:
 
 ```
-apm install hotaru-syntax
+apm install emilia-syntax
 ```
 
 or install via Atom's settings install tab.
